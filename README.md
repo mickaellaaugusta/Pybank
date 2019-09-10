@@ -1,7 +1,7 @@
 # Pybank
 Implementação de uma caixa eletrônico em Python. Esse projeto foi baseado no projeto [Projeto Simples de caixa eletrônico com Python](https://github.com/giovannamascarenhas/Projeto-simples-de-Caixa-Eletr-nico-com-Python)
 
-Implementado de acordo com *5 Boas Práticas para um Código Limpo*
+Implementado de acordo com **5 Boas Práticas para um Código Limpo**
     Boas práticas para um código limpo:
 
     1. Variáveis e funções devem ter nomes que deixem claro o que elas fazem.
@@ -14,13 +14,13 @@ Implementado de acordo com *5 Boas Práticas para um Código Limpo*
 
 
 ## COMO EXECUTAR O CÓDIGO
-    ''''
+    '''
         python pybank.py
         python pybank_ref.p
-    ''''
+    '''
 
 ## COMO EXECUTAR OS TESTES UNITÁRIOS
-    ''''
+    '''
         pytest
-    ''''
+    '''
     Para executar apenas um dos testes unitários digite pytest nomedoteste.py
