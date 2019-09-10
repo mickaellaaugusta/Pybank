@@ -1,18 +1,14 @@
 # Pybank
 Implementação de uma caixa eletrônico em Python. Esse projeto foi baseado no projeto [Projeto Simples de caixa eletrônico com Python](https://github.com/giovannamascarenhas/Projeto-simples-de-Caixa-Eletr-nico-com-Python)
 
-Implementado de acordo com **5 Boas Práticas para um Código Limpo**
-    Boas práticas para um código limpo:
+Implementado de acordo com **5 Boas Práticas para um Código Limpo**:
 
     1. Variáveis e funções devem ter nomes que deixem claro o que elas fazem.
-    2. Funções não devem ter mais que dois parâmentros. [Ex.: def myassert(result, nome)]
-    3. Toda função deve ter apenas um ponto de saída. [Ex.: um return apenas]
-    4. Código limpo tem que ter teste unitário. [O atendimento às regras anteriores sem 
-        teste unitário invalida o código ser limpo.]
+    2. Funções não devem ter mais que dois parâmentros. 
+    3. Toda função deve ter apenas um ponto de saída. 
+    4. Código limpo tem que ter teste unitário. 
     5. Código limpo não possui comentário. O código precisa ser autoexplicativo. 
-        [Igone os comentários no código, estou aprendendo...]
-
-
+        
 ## COMO EXECUTAR O CÓDIGO
 ```sh
     python pybank.py
