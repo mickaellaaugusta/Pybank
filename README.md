@@ -14,13 +14,14 @@ Implementado de acordo com **5 Boas Práticas para um Código Limpo**
 
 
 ## COMO EXECUTAR O CÓDIGO
+    
     ```sh
-        python pybank.py
-        python pybank_ref.p
+       $ cd python pybank.py
+       $ cd python pybank_ref.p
     ```
 
 ## COMO EXECUTAR OS TESTES UNITÁRIOS
     ```sh
-        pytest
+       $ pytest
     ```
     Para executar apenas um dos testes unitários digite pytest nomedoteste.py
