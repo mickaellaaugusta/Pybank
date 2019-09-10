@@ -14,11 +14,10 @@ Implementado de acordo com **5 Boas Práticas para um Código Limpo**
 
 
 ## COMO EXECUTAR O CÓDIGO
-    
-    ```sh
-       $ cd python pybank.py
-       $ cd python pybank_ref.p
-    ```
+```sh
+    python pybank.py
+    python pybank_ref.p
+```
 
 ## COMO EXECUTAR OS TESTES UNITÁRIOS
     ```sh
